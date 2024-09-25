@@ -12,6 +12,8 @@ The main objective or goal of analyzing the airbnb booking data is to gain insig
 
 A well-known internet rental marketplace, AirBnB links homeowners eager to rent out their properties with travelers looking for lodging. Since its founding in 2008, the site has experienced exponential growth, now providing over 7 million listings across more than 220 nations and territories. There are many different types of accommodations offered by AirBnB, ranging from studio flats and single rooms to full mansions and unusual properties like treehouses and castles. Because of this variety, guests may choose lodging options that fit their needs and budgets, and hosts can make money from vacant areas.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Airbnb_Logo_B%C3%A9lo.svg" width="900" />
+
 ## Importance of Analyzing the Data of Airbnb Booking
 
 - Understanding Market Trends :- Peak times, well-liked locations, and new travel trends can all be found by looking at booking trends. Hosts may optimize their listings and pricing tactics with the help of this essential information.
